@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mp8</string>
+    <string name="hyperlink">Learn English in detail at\n<a href="https://www.learn-english-online.org/Lesson1/Lesson1.htm">LearnEnglish.com</a></string>
+    <string name="hyperlink2">Learn Hindi in detail at\n<a href="https://www.lingohut.com/en/l70/learn-hindi">LearnHindi.com</a></string>
+    <string name="hyperlink3">Learn Japanese in detail at\n<a href="https://www.nhk.or.jp/lesson/en/">LearnJapanese.com</a></string>
+</resources>
